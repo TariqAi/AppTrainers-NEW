@@ -21,6 +21,12 @@ with WordClouds.
 - The process involved feature engineering, handling outliers, and using a heatmap to understand relationships between features.
 - After scaling the data, I applied PCA for dimensionality reduction before performing clustering. 
 - Finally, customer profiles were analyzed for each cluster to better understand distinct customer segments.
+- 
+## Breast Cancer Classification (Neural-Network)
+- In this dataset, I am building a system that can classify whether a tumor is malignant or benign using breast cancer diagnostic data.
+- I am using a Neural Network model built with TensorFlow and Keras.
+- The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
+- The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
 
 ## Telco Customer Chrurn Prediction
 - I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
@@ -29,14 +35,8 @@ with WordClouds.
 - I applied the SMOTE technique.
 - The models are trained and evaluated using various metrics.
 
-## Breast Cancer Classification (Neural-Network)
-- In this dataset, I am building a system that can classify whether a tumor is malignant or benign using breast cancer diagnostic data.
-- I am using a Neural Network model built with TensorFlow and Keras.
-- The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
-- The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
 
-
-🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞
+🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
 
 
 # SKILLS:
