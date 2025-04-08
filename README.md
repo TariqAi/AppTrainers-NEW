@@ -42,7 +42,7 @@ with WordClouds.
 # SKILLS:
 
 - Python programming
-- SQL
+- SQL (MySQL)
 - Data Visualization & BI Tools ( Power BI )
 - Scikit-learn
 - Machine learning algorithms
