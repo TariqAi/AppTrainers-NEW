@@ -24,14 +24,21 @@ with WordClouds.
 - I am using an Unsupervised Learning techniques to identify patterns and group similar customers together.
 
 ## Telco Customer Chrurn Prediction
-  - I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
-  - I am using machine learning models such as Logistic Regression and Random Forest Classifier for our prediction.
-  - The data is preprocessed using Label Encoding and Standard Scaling, and to handle the class imbalance.
-  - I applied the SMOTE technique.
-  - The models are trained and evaluated using various metrics.
+- I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
+- I am using machine learning models such as Logistic Regression and Random Forest Classifier for our prediction.
+- The data is preprocessed using Label Encoding and Standard Scaling, and to handle the class imbalance.
+- I applied the SMOTE technique.
+- The models are trained and evaluated using various metrics.
+
+## Breast Cancer Classification (Neural-Network)
+- In this dataset, I am building a system that can classify whether a tumor is malignant or benign using breast cancer diagnostic data.
+- I am using a Neural Network model built with TensorFlow and Keras.
+- The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
+- The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
 
 
 🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞
+
 
 # SKILLS:
 
