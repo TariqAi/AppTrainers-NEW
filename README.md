@@ -28,7 +28,7 @@ with WordClouds.
 - The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
 - The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
 
-## Telco Customer Chrurn Prediction
+## Customer Chrurn Prediction
 - I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
 - I am using machine learning models such as Logistic Regression and Random Forest Classifier for our prediction.
 - The data is preprocessed using Label Encoding and Standard Scaling, and to handle the class imbalance.
