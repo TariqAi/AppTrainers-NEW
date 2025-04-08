@@ -1,6 +1,6 @@
 ![AppTrainers_LOGO](https://github.com/user-attachments/assets/912603f7-7e94-437e-b41a-e31fe28c8380)
 
-# AppTrainer
+# AppTrainers
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ## Sentiment Analysis
 Built an NLP pipeline to classify tweets as positive or negative using
