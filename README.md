@@ -20,8 +20,11 @@ with WordClouds.
 - including convolutional, pooling, and dense layers.
 
 ## Customer Segmentation (Clustering)
-- I am building a system that can segment customers into different groups based on their behavior and characteristics.
-- I am using an Unsupervised Learning techniques to identify patterns and group similar customers together.
+- I am building a system that segments customers into different groups based on their behavior and characteristics. For this use case
+- I applied unsupervised learning techniques, specifically clustering.
+- The process involved feature engineering, handling outliers, and using a heatmap to understand relationships between features.
+- After scaling the data, I applied PCA for dimensionality reduction before performing clustering. 
+- Finally, customer profiles were analyzed for each cluster to better understand distinct customer segments.
 
 ## Telco Customer Chrurn Prediction
 - I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
