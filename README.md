@@ -1,9 +1,5 @@
 ![AppTrainers_LOGO](https://github.com/user-attachments/assets/912603f7-7e94-437e-b41a-e31fe28c8380)
 
-# AppTrainers
-
-
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 # Projects
 
 ## Tweets Sentiment Analysis (NLP)
