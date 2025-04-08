@@ -1,14 +1,14 @@
 ![AppTrainers_LOGO](https://github.com/user-attachments/assets/912603f7-7e94-437e-b41a-e31fe28c8380)
 
 # AppTrainers
+
+
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ## Sentiment Analysis
-Built an NLP pipeline to classify tweets as positive or negative using
-machine learning (Logistic Regression, Naive Bayes, SVM).
-
-Preprocessed text and applied TF-IDF for feature extraction.
-
-Achieved strong performance metrics and visualized key insights
+- Built an NLP pipeline to classify tweets as positive or negative using
+- machine learning (Logistic Regression, Naive Bayes, SVM).
+- Preprocessed text and applied TF-IDF for feature extraction.
+- Achieved strong performance metrics and visualized key insights
 with WordClouds.
 
 ## CIFAR-10 (Image Classification)
