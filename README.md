@@ -15,18 +15,18 @@ with WordClouds.
 - Implemented the model using Keras with TensorFlow backend ,
 - including convolutional, pooling, and dense layers.
 
+## Breast Cancer Classification (Neural-Network)
+- In this dataset, I am building a system that can classify whether a tumor is malignant or benign using breast cancer diagnostic data.
+- I am using a Neural Network model built with TensorFlow and Keras.
+- The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
+- The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
+  
 ## Customer Segmentation (Clustering)
 - I am building a system that segments customers into different groups based on their behavior and characteristics. For this use case
 - I applied unsupervised learning techniques, specifically clustering.
 - The process involved feature engineering, handling outliers, and using a heatmap to understand relationships between features.
 - After scaling the data, I applied PCA for dimensionality reduction before performing clustering. 
 - Finally, customer profiles were analyzed for each cluster to better understand distinct customer segments.
-- 
-## Breast Cancer Classification (Neural-Network)
-- In this dataset, I am building a system that can classify whether a tumor is malignant or benign using breast cancer diagnostic data.
-- I am using a Neural Network model built with TensorFlow and Keras.
-- The model is designed using a Sequential architecture with Dense layers, and the data is preprocessed using Standard Scaling to improve model performance. 
-- The system is trained and tested using a standard train-test split to evaluate its accuracy and classification capability.
 
 ## Customer Chrurn Prediction
 - I am building a system that can predict whether a customer is likely to churn or stay with the telecom company. 
