@@ -51,3 +51,6 @@ with WordClouds.
 - Convolution Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
 - Natural language processing (NLP)
+- Scrum and agile Methodologies
+- Jira
+- GIT
